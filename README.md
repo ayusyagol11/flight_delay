@@ -2,7 +2,7 @@
 
 ## 📅 Project Overview
 
-I recently built an interactive Flight Delay Dashboard using Dash, Plotly, and Pandas. This dashboard provides insightful visualizations of airline delays, helping users analyze trends based on different delay types: Carrier, Weather, NAS (National Aviation System), Security, and Late Aircraft delays. The dashboard allows users to select a specific year (from 2003 to 2020) and explore delay patterns for various airlines.
+I recently built an interactive **Flight Delay Dashboard** using **Dash**, **Plotly**, and **Pandas**. This dashboard provides insightful visualizations of airline delays, helping users analyze trends based on different delay types: Carrier, Weather, NAS (National Aviation System), Security, and Late Aircraft delays. The dashboard allows users to select a specific year (from 2003 to 2020) and explore delay patterns for various airlines.
 
 ## 🌟 Key Features
 
@@ -16,15 +16,15 @@ I recently built an interactive Flight Delay Dashboard using Dash, Plotly, and P
 
 The dashboard consists of five key line plots, each representing a different type of delay:
 
-Carrier Delay: Delays caused by the airline’s own operations.
+**Carrier Delay**: Delays caused by the airline’s own operations.
 
-Weather Delay: Delays due to bad weather conditions.
+**Weather Delay**: Delays due to bad weather conditions.
 
-NAS Delay: Delays related to air traffic control, airport congestion, and other infrastructure-related factors.
+**NAS Delay**: Delays related to air traffic control, airport congestion, and other infrastructure-related factors.
 
-Security Delay: Delays caused by security-related issues (e.g., screening delays).
+**Security Delay**: Delays caused by security-related issues (e.g., screening delays).
 
-Late Aircraft Delay: Delays due to an aircraft arriving late from a previous flight.
+**Late Aircraft Delay**: Delays due to an aircraft arriving late from a previous flight.
 
 Each of these plots helps users identify seasonal trends, airline-specific performance, and potential external factors affecting flight delays.
 
@@ -42,13 +42,13 @@ Assist travelers and airlines in making data-driven decisions to improve schedul
 
 ## 🤖 Tech Stack
 
-Dash: For creating an interactive web application.
+**Dash**: For creating an interactive web application.
 
-Plotly: For data visualization and line charts.
+**Plotly**: For data visualization and line charts.
 
-Pandas: For data manipulation and aggregation.
+**Pandas**: For data manipulation and aggregation.
 
-Python: The backbone of the project.
+**Python**: The backbone of the project.
 
 ## 💪 What I Learned
 
@@ -60,15 +60,15 @@ Python: The backbone of the project.
 
 ## 🔗 Next Steps
 
-Deploying the dashboard online for public use.
+1️⃣ Deploying the dashboard online for public use.
 
-Adding more filters, such as selecting specific airlines.
+2️⃣ Adding more filters, such as selecting specific airlines.
 
-Enhancing the UI further with custom themes and styling.
+3️⃣ Enhancing the UI further with custom themes and styling.
 
 ## 👨‍💻 Check Out the Code:
 
-[Insert GitHub Repo Link Here]
+[Click Here](/flight_delay.py)
 
 🎉 Excited to keep improving and exploring more in data visualization and interactive dashboards! Let me know what you think. Feedback is always welcome! 😃
 
