@@ -32,11 +32,11 @@ Each of these plots helps users identify seasonal trends, airline-specific perfo
 
 With this dashboard, users can:
 
-Identify seasonal patterns (e.g., increased delays in winter months due to snowstorms).
+1️⃣ Identify seasonal patterns (e.g., increased delays in winter months due to snowstorms).
 
-Compare airlines' performance in handling delays.
+2️⃣ Compare airlines' performance in handling delays.
 
-Pinpoint major causes of delays and assess which delay type impacts flights the most.
+3️⃣ Pinpoint major causes of delays and assess which delay type impacts flights the most.
 
 Assist travelers and airlines in making data-driven decisions to improve scheduling and operations.
 
@@ -52,11 +52,11 @@ Assist travelers and airlines in making data-driven decisions to improve schedul
 
 ## 💪 What I Learned
 
-1️⃣ Dash Layout Optimization: Improved my skills in structuring a Dash app, ensuring a well-organized UI.
-2️⃣ Data Processing with Pandas: Learned how to efficiently group and analyze airline delay data.
-3️⃣ Interactive Graphs with Plotly: Gained experience in creating dynamic, user-responsive charts.
-4️⃣ UI/UX Enhancements: Center-aligned chart titles, made them bold, and improved spacing for readability.
-5️⃣ Deployment & Debugging: Resolved issues like port conflicts and improved application responsiveness.
+1️⃣ Dash Layout Optimization: Improved my skills in structuring a Dash app, ensuring a well-organized UI.<br>
+2️⃣ Data Processing with Pandas: Learned how to efficiently group and analyze airline delay data.<br>
+3️⃣ Interactive Graphs with Plotly: Gained experience in creating dynamic, user-responsive charts.<br>
+4️⃣ UI/UX Enhancements: Center-aligned chart titles, made them bold, and improved spacing for readability.<br>
+5️⃣ Deployment & Debugging: Resolved issues like port conflicts and improved application responsiveness.<br>
 
 ## 🔗 Next Steps
 
